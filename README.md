@@ -1,7 +1,9 @@
 ## Overview
 
 **Project Title**: Recipe App
+
 **Project Description**: A phone app that saves the recipes you put it in and allows you to edit and adjust the recipe as you need. (If I have extra time It also want to add a unit conversion calculator, cups to ounces and other conversions)
+
 **Project Goals**: create a working calculator 
 
 ## Instructions for Build and Use
